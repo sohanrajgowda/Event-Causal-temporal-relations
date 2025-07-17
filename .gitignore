@@ -1,0 +1,72 @@
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+env/
+venv/
+ENV/
+*.env
+
+# VS Code settings
+.vscode/
+
+# PyTorch and training artifacts
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+runs/
+logs/
+
+# Dataset/cache directories
+*.csv
+*.tsv
+*.json
+*.log
+*.db
+*.sqlite3
+*.zip
+*.tar.gz
+cache/
+data/
+datasets/
+.stanza_resources/
+
+# Tokenizer and model downloads
+*.tokenizer
+*.model
+*.bin
+*.h5
+
+# HuggingFace Transformers cache
+huggingface/
+~/.cache/
+~/.huggingface/
+~/.torch/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*.swo
+.DS_Store
+
+# System files
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# IPython history
+.history
+
+# Jupyter Notebook conversion
+*.nbconvert.ipynb

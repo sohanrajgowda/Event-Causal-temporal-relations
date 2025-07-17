@@ -1,0 +1,9 @@
+pandas
+zipfile
+Beautifulsoup
+torch
+transformers
+scikit-learn
+networkx
+torch_geometric
+spacy
